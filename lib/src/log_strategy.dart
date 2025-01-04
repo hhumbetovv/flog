@@ -1,4 +1,4 @@
-part of '../flog.dart';
+part of 'index.dart';
 
 enum LogStrategy {
   hide,

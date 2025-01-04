@@ -1,4 +1,4 @@
-part of '../flog.dart';
+part of 'index.dart';
 
 enum LogLevel {
   verbose('VERBOSE', 0),

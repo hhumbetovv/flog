@@ -1,5 +1,3 @@
-part of '../flog.dart';
-
 enum AnsiColors {
   // Regular Colors
   kDefault('\x1B[0m'),
